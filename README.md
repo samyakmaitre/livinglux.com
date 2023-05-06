@@ -1,7 +1,7 @@
 # livinglux.com
 Home decor company website frontend using HTML and CSS
-https://user-images.githubusercontent.com/130790017/236632538-92e6aed4-deb6-495f-935f-0f4c353247dc.png
-https://user-images.githubusercontent.com/130790017/236632559-330a9875-c856-45c3-921f-342437be7adb.png
-https://user-images.githubusercontent.com/130790017/236632594-c00fb914-b556-46f6-bea0-a5206e77c1d5.png
-https://user-images.githubusercontent.com/130790017/236632597-a7185173-23d4-4368-9f48-8e2f1e9dbf4b.png
-https://user-images.githubusercontent.com/130790017/236632624-ec219726-0a7f-4761-8738-3c23f2172654.png
+![Screenshot 2023-05-06 203223](https://user-images.githubusercontent.com/130790017/236632805-894a93cd-9ca8-4d4c-ba45-28fbf87a6984.png)
+![Screenshot 2023-05-06 203313](https://user-images.githubusercontent.com/130790017/236632820-316e84ac-6df7-4b19-b97e-db75d7fd2c07.png)
+![Screenshot 2023-05-06 203046](https://user-images.githubusercontent.com/130790017/236632824-a6ad5414-81c7-469c-a024-78e13b57fcf5.png)
+![Screenshot 2023-05-06 203104](https://user-images.githubusercontent.com/130790017/236632845-63470c58-d07f-4a79-b98a-e6d1b03b9049.png)
+![Screenshot 2023-05-06 203126](https://user-images.githubusercontent.com/130790017/236632858-3336ec11-64ab-4175-8de7-0bfd2f1a2197.png)
