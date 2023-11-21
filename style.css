@@ -29,7 +29,7 @@
     cursor: pointer;
     padding-left: 25px;
 }
-.navbar ul li{
+.navbar ul li a{
     list-style: none;
     display: inline-block;
     margin: 0 5px;
@@ -44,8 +44,9 @@
 
 
 .navbar ul li a:hover{
-    text-decoration: underline;
-
+    
+    text-shadow: #00a6ff 0px 0px 5px ;
+    cursor: pointer;
 }
 
 .navbar:hover{
